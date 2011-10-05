@@ -21,7 +21,7 @@
 // THE SOFTWARE.
 
 #import "AFJSONRequestOperation.h"
-#import "JSONKit.h"
+#import <RestKit/Support/JSON/JSONKit/JSONKit.h>
 
 #include <Availability.h>
 
